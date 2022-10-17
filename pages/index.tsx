@@ -1,6 +1,5 @@
-import type { NextPage } from "next";
 import Head from "next/head";
-import { ChangeEvent, FormEvent, useRef, useState } from "react";
+import { useState } from "react";
 import Header from "../Components/Header";
 import Library from "../Components/Library/Library";
 import Main from "../Components/Main/Main";
